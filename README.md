@@ -1,1 +1,1 @@
-staff.gdpshub.com/
+http://staff.gdpshub.com/
